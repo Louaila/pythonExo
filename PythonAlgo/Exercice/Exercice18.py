@@ -1,11 +1,13 @@
 
-def compter_lettre_a(compteur : str) :
-      return compteur.count("a")
+# def compter_lettre_a(compteur : str) :
+#       return compteur.count("a")
 
 
-resultat = compter_lettre_a('louaila')
+# resultat = compter_lettre_a('louaila')
 
-print(resultat)
+# print(resultat)
+
+
 
 
 
@@ -18,3 +20,8 @@ def compter_lettre_a(lettre: str):
             compteur_a += 1  
 
     return compteur_a
+
+resultat = compter_lettre_a('louaila')
+print(resultat)
+
+
