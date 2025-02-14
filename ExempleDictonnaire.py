@@ -52,6 +52,7 @@ print(personne)
 # parcour de dictionnaire
 for cle, valeur in personne.items():
     print(f"ma clé : {cle} et la valeur qui va avec {valeur}")
+    
 
 
 
